@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, I'm [@wakame](https://twitter.com/wakame1367)
 
 <a href="https://github.com/wakamezake">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
@@ -25,6 +25,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+## GitHub Readme Stats
+
 [![wakamezake's github stats](https://github-readme-stats.vercel.app/api?username=wakamezake&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Certifications
+<img align="left" alt="AZ-900" width="100px" src="https://github.com/wakamezake/wakamezake/blob/master/badges/azure-fundamentals-600x600.png" />
+
 
 ⭐️ From [CallmeMehdi](https://github.com/CallmeMehdi)
