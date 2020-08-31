@@ -1,4 +1,4 @@
-# Hi, I'm [@wakame](https://twitter.com/wakame1367)
+# Hi, I'm [@wakame1367](https://twitter.com/wakame1367)🍖🍣🍜🍺🎮
 
 <a href="https://github.com/wakamezake">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
@@ -31,9 +31,9 @@
 
 ## Certifications
 ### Azure
-<code><img align="left" alt="AZ-900" width="100px" src="https://github.com/wakamezake/wakamezake/blob/master/badges/azure-fundamentals-600x600.png" /></code>
-<br />
-<br />
+|Date|Name|Certification|
+|----|-----|-----|
+|2020/8|AZ-900|<img align="left" alt="AZ-900" width="100px" src="https://github.com/wakamezake/wakamezake/blob/master/badges/azure-fundamentals-600x600.png" />|
 
 ### Coursera
 
