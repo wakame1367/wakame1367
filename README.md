@@ -39,8 +39,10 @@
 
 |Date|Name|Certification|
 |----|-----|-----|
-|2018/3|[Deep Learning Specialization](https://ja.coursera.org/specializations/deep-learning)|[認証情報](https://www.coursera.org/account/accomplishments/specialization/4BWKV23SXWDF)|
-|2018/9|[Machine Learning with TensorFlow on Google Cloud Platform](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)|[認証情報](https://www.coursera.org/account/accomplishments/specialization/B6QWT38M5HV4)|
+|2018/3|[Deep Learning Specialization](https://ja.coursera.org/specializations/deep-learning)|[Certificate of completion](https://www.coursera.org/account/accomplishments/specialization/4BWKV23SXWDF)|
+|2018/9|[Machine Learning with TensorFlow on Google Cloud Platform](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)|[Certificate of completion](https://www.coursera.org/account/accomplishments/specialization/B6QWT38M5HV4)|
+|2019/8|[Architecting with Google Compute Engine](https://www.coursera.org/specializations/gcp-architecture-jp)|[Certificate of completion](https://www.coursera.org/account/accomplishments/specialization/QUULVJ4ZG5DE)|
+|2020/4|[Data Engineering, Big Data and ML on Google Cloud](https://www.coursera.org/specializations/gcp-data-machine-learning-jp)|[Certificate of completion](https://www.coursera.org/account/accomplishments/specialization/FG58XBGJNVKC)|
 
 ### Google
 
