@@ -31,7 +31,8 @@
 ### Azure
 |Date|Name|Certification|
 |----|-----|-----|
-|2020/8|AZ-900|<img align="left" alt="AZ-900" width="100px" src="https://github.com/wakamezake/wakamezake/blob/master/badges/azure-fundamentals-600x600.png" />|
+|2020/8|[AZ-900: Microsoft Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)|<img align="left" alt="AZ-900" width="100px" src="https://github.com/wakamezake/wakamezake/blob/master/badges/azure-fundamentals-600x600.png" />|
+
 
 ### Coursera
 
@@ -47,3 +48,4 @@
 |Date|Name|Certification|
 |----|-----|-----|
 |2019/2|[デジタル マーケティングの基礎](https://learndigital.withgoogle.com/digitalworkshop-jp/course/digital-marketing)|認定番号: DN5 NWP HA7 ([認定証確認ページ](https://learndigital.withgoogle.com/digitalworkshop-jp/validate-certificate-code))|
+|2020/9|[TensorFlow Developer Certificate](https://www.tensorflow.org/certificate)|<img align="left" alt="AZ-900" width="100px" src="https://github.com/wakamezake/wakamezake/blob/master/badges/16007381745.png" />|
