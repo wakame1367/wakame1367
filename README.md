@@ -16,10 +16,6 @@
 <br />
 <br />
 
-## Languages and Tools
-<img src="https://img.shields.io/badge/C Lang-222222.svg?logo=c&style=flat"> <img src="https://img.shields.io/badge/Python-f9d64e.svg?logo=python&style=flat"> <img src="https://img.shields.io/badge/HTML5-222222.svg?logo=html5&style=flat">
- <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&style=flat"> <img src="https://img.shields.io/badge/javascript-3577c4.svg?logo=javascript&style=flat"> <img src="https://img.shields.io/badge/TesorFlow-aa4c00.svg?logo=tensorflow&style=flat"> <img src="https://img.shields.io/badge/OpenCV-FF0000.svg?logo=opencv&style=flat"> <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?logo=Raspberry%20Pi&style=flat"> <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?logo=Amazon%20AWS&style=flat"> <img src="https://img.shields.io/badge/Microsoft%20Azure-00a5ff.svg?logo=Microsoft%20Azure&style=flat"> <img src="https://img.shields.io/badge/-Google%20Cloud-AAAAAA.svg?logo=google-cloud&style=flat"> <img src="https://img.shields.io/badge/Kaggle-21eaff.svg?logo=kaggle&style=flat">
-
 ## GitHub Readme Stats
 
 [![wakamezake's github stats](https://github-readme-stats.vercel.app/api?username=wakamezake&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
